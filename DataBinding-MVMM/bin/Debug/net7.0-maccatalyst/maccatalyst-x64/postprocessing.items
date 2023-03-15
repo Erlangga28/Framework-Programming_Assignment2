@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="DataBinding-MVMM.app/Contents/MacOS/DataBinding-MVMM">
+      <BCSymbolMapName>DataBinding-MVMM.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>DataBinding-MVMM.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/erlanggawahyu/Projects/DataBinding-MVMM/DataBinding-MVMM/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/mtouch-symbols.list</SymbolFile>
+      <DSymName>DataBinding-MVMM.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/erlanggawahyu/Projects/DataBinding-MVMM/DataBinding-MVMM</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
